@@ -33,6 +33,10 @@ input {
     width: clamp(70px, 15vw, 110px);
 }
 
+.barrier {
+    width: clamp(300px, 90vw, 700px);
+}
+
 .correct {
     border-color: #00FF21;
 }
